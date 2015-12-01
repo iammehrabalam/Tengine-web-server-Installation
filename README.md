@@ -10,7 +10,7 @@ git clone https://github.com/mehrabalam/Tengine-web-server-Installation.git
 cd Tengine-web-server-Installation
 sh tengine_setup.sh
 ```
-# Nginx Vs Tengine
+## Nginx Vs Tengine
 **HARDWARE : 1GB RAM 1 CORE CPU**   
 **APP LEVEL PROCESSING:   no processing in app simply return 200 in response**  
 **TOTAL NUMBER OF REQUEST :  12000**  
@@ -21,5 +21,5 @@ sh tengine_setup.sh
 
 ![](https://raw.githubusercontent.com/mehrabalam/Tengine-web-server-Installation/master/comparision.png)
 
-# Example to monitor health and request status
+## Example to monitor health and request status
 see example.conf
